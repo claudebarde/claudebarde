@@ -3,7 +3,7 @@
 Developer Relations Engineer and front-end developer based in Toulouse, France.
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Claude Barde's 3D GitHub contribution graph" width="100%">
+<img src="./game.gif" alt="Space shooter game played on Claude Barde's GitHub contribution graph" width="100%">
 </p>
 
 ## About me
