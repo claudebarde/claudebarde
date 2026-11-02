@@ -44,7 +44,7 @@ Languages: French (native), English and Romanian (fluent), German (working knowl
 
 ## Things I've written and recorded
 
-- 🎤 [How to build dApps on Tezos using Taquito](https://youtu.be/V132Is3-Htg) (talk)
+- 🎤 [How to build dApps on Tezos using Taquito](https://youtu.be/V132Is3-Htg): talk at the Tezos x EasyA Hacker House, 26-27 November 2022
 - 🎥 [Midnight for Developers: Advanced Concepts of Compact](https://youtu.be/F0bSl1AO_iw)
 - 🎥 [Dev Success | Interacting with FA2 Contracts Using Taquito](https://youtu.be/xL6jyW1sqmA)
 - ✍️ [Written tutorials on Medium](https://claudebarde.medium.com/)
