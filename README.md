@@ -3,7 +3,7 @@
 Developer Relations Engineer and front-end developer based in Toulouse, France.
 
 <p align="center">
-<a href="https://github.com/claudebarde"><img src="https://ghchart.rshah.org/2ea44f/claudebarde" alt="Claude Barde's GitHub contribution graph" width="100%"></a>
+<img src="./profile-3d-contrib/profile-gitblock.svg" alt="Claude Barde's 3D GitHub contribution graph" width="100%">
 </p>
 
 ## About me
